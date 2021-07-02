@@ -1,5 +1,6 @@
-vmess://YXV0bzo1YmE3MzhlNy0wYWJmLTQ5MzUtYjY3ZS1kNDA0YTA4M2Q2YTZANjAuMjUxLjUwLjIwOjQ0Mw?remarks=Pool_%20%7C%202.44Mb&path=/footers&obfs=websocket&tls=1&allowInsecure=1&alterId=64
-vmess://YXV0bzozYjVlMjU4ZS04YzVlLTQ1ZDMtYjdkMi0wMmM4ZjVmYzBiYjJAMTA0LjE4LjYuMTM4OjQ0Mw?remarks=Relay_%20%7C%209.44Mb&path=/&obfs=websocket&tls=1&allowInsecure=1&alterId=64
-vmess://YXV0bzozYjVlMjU4ZS04YzVlLTQ1ZDMtYjdkMi0wMmM4ZjVmYzBiYjJAMTA0LjIxLjQ4LjE2MTo0NDM?remarks=Relay_%20%7C%209.74Mb&path=/&obfs=websocket&tls=1&allowInsecure=1&alterId=64
-vmess://YXV0bzozYjVlMjU4ZS04YzVlLTQ1ZDMtYjdkMi0wMmM4ZjVmYzBiYjJAY2RuZGUuaXJ0ZXl6LnRvZGF5OjQ0Mw?remarks=Relay_%20%7C%208.32Mb&path=/&obfs=websocket&tls=1&alterId=64
+trojan://ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443#Relay_%F0%9F%87%A8%F0%9F%87%A6CA-%F0%9F%87%A8%F0%9F%87%A6CA_617
 vmess://YXV0bzphY2VkZDhlMC1lNjU0LTRhNDAtOTM1ZC01NTk0YzZjMTE0YmRANDYuMTgyLjEwNy4xNDU6NDQz?remarks=Pool_%20%7C25.54Mb&path=/footers&obfs=websocket&tls=1&allowInsecure=1&alterId=64
+trojan://8697fe6b-1948-41ce-a80a-7YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2@185.44.76.188:443#%F0%9F%87%AC%F0%9F%87%A7GB_2079
+trojan://2e240eYWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2@185.44.76.188:443#%F0%9F%87%AC%F0%9F%87%A7GB_2080
+trojan://YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2@185.44.76.188:443#%F0%9F%87%AC%F0%9F%87%A7GB_2081
+trojan://2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2@185.44.76.188:443#%F0%9F%87%AC%F0%9F%87%A7GB_2082
