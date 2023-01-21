@@ -72,7 +72,7 @@ static=港台番剧, 大陆服务, 自选节点, img-url=https://qxnav.com/rules
 
 [server_remote]
 https://usdtvfk.top/api/v1/client/subscribe?token=1bbcc47e63c2f5d399696f732f0b6ffb, tag=LULIN, img-url=https://gitee.com/glc66/vess/raw/master/tp/luc.png, update-interval=43200, opt-parser=true, enabled=true
-http://www.a100.sbs/api/v1/client/subscribe?token=3d2b7f95ce0392081866294c379e138e,tag=共享, img-url=https://gitee.com/glc66/vess/raw/master/tp/luc.png, update-interval=43200, opt-parser=true, enabled=true
+https://xsus.buzz/api/v1/client/subscribe?token=bd4125fff04f5d7cf79d1feed7dd463a,tag=共享, img-url=https://gitee.com/glc66/vess/raw/master/tp/luc.png, update-interval=43200, opt-parser=true, enabled=true
 https://cloudfast.cc/api/v1/client/subscribe?token=aba940c06c00ed78cd7dfec6368c3c79, tag=LINLIN, img-url=https://gitee.com/glc66/vess/raw/master/tp/lin.png, update-interval=43200, opt-parser=true, enabled=true
 https://yuyan.online/api/v1/client/subscribe?token=ff0f46d7343ff4c89e757218a1a6b36c, tag=五毛钱, img-url=https://gitee.com/glc66/vess/raw/master/tp/lin.png, update-interval=43200, opt-parser=true, enabled=true
 #解锁网易云灰色音乐原订阅地址：https://git.io/JfNq3
