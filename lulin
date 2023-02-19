@@ -142,13 +142,12 @@ final, 大陆服务
 
 #>>>>>>>>>>>解锁会员
 https://qxnav.top/rules/QuantumultX/gz/qxrules.conf, tag=奇心规则合集, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/WeiRen0/NewFree/main/QuantumultX2, tag=自用VIP, update-interval=172800, opt-parser=true, enabled=true
+#https://raw.githubusercontent.com/WeiRen0/NewFree/main/QuantumultX2, tag=自用VIP, update-interval=172800, opt-parser=true, enabled=true
 http://ox.xmkczs.com/quantumultX/ioshkj.conf, tag=彭于晏, update-interval=86400, opt-parser=false, enabled=true
 
 https://raw.githubusercontent.com/ddgksf2013/dev/master/ForOwnUse.conf, tag=墨鱼专属VIP@ddgksf2013, update-interval=86400, opt-parser=true, enabled=true
-https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Rewrite/AdBlock/Bilibili.conf, tag=B站去广告+1080P高码率@ddgksf2013, update-interval=86400, opt-parser=false, enabled=true
-https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Rewrite/UnlockVip/Spotify.conf, tag=Spotify音乐VIP@app2smile, update-interval=86400, opt-parser=false, enabled=true
-
+https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf, tag=Spotify音乐VIP[音质≤高]@app2smile, update-interval=86400, opt-parser=false, enabled=true
+https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf, tag=墨鱼专属VIP@ddgksf2013, update-interval=86400, opt-parser=false, enabled=true
 
 #>>>>>>>>>>>软件增强
 https://raw.githubusercontent.com/Z5201/QX/a7944442771d49798a83008f86abe874f868bfb1/baiduwangpanVIP, tag=百度网盘倍速@ddgksf2013, update-interval=86400, opt-parser=false, enabled=false
@@ -159,7 +158,7 @@ https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Netflix_ratings.conf,
 
 #>>>>>>>>>>>应用去广告
 https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Rewrite/AdBlock/StartUp.conf, tag=应用去开屏广告@ddgksf2013, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.qxrewrite, tag=知乎去广告及体验增强@blackmatrix7, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet, tag=知乎去广告及体验增强@blackmatrix7, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.qxrewrite, tag=什么值得买去广告@blackmatrix7, update-interval=86400, opt-parser=false, enabled=true
 https://github.com/app2smile/rules/raw/master/module/tieba-qx.conf, tag=百度贴吧去广告@app2smile, update-interval=86400, opt-parser=false, enabled=true
 https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf, tag=微信小程序去广告@ddgksf2013, update-interval=86400, opt-parser=false, enabled=true
