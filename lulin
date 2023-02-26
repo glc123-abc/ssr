@@ -145,7 +145,7 @@ https://qxnav.top/rules/QuantumultX/gz/qxrules.conf, tag=奇心规则合集, upd
 #https://raw.githubusercontent.com/WeiRen0/NewFree/main/QuantumultX2, tag=自用VIP, update-interval=172800, opt-parser=true, enabled=true
 http://ox.xmkczs.com/quantumultX/ioshkj.conf, tag=彭于晏, update-interval=86400, opt-parser=false, enabled=true
 
-https://raw.githubusercontent.com/ddgksf2013/dev/master/ForOwnUse.conf, tag=墨鱼专属VIP@ddgksf2013, update-interval=86400, opt-parser=true, enabled=true
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf, tag=B站去广告+1080P高码率@ddgksf2013, update-interval=86400, opt-parser=false, enabled=true
 https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf, tag=Spotify音乐VIP[音质≤高]@app2smile, update-interval=86400, opt-parser=false, enabled=true
 https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf, tag=墨鱼专属VIP@ddgksf2013, update-interval=86400, opt-parser=false, enabled=true
 
